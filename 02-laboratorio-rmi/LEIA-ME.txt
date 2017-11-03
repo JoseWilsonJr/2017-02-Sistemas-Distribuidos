@@ -1,0 +1,4 @@
+LEIA-ME.txt
+
+O arquivo shell script é responsável por matar todos os processos "remiregistry" caso estejam abertos,
+compilar o cliente e servidor, inciar o serviço "rmiregistry" e executar o servidor para inicar a conexão.
